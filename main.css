@@ -1,0 +1,37 @@
+.spacer{
+    width: 100px;
+    height: 70px;
+}
+
+.row > *{
+border: 1px solid violet;
+text-align: center;
+}
+
+.cyan > *{
+    background-color: cyan;
+}
+
+.gr > *{
+    background-color: rgb(52, 156, 52);
+}
+
+.bl > *{
+    background-color: rgb(121, 121, 235);
+}
+
+.bl-dark > *{
+    background-color: rgb(32, 32, 208);
+}
+
+.violet > *{
+    background-color: blueviolet;
+}
+
+.pink > *{
+    background-color: rgb(226, 43, 147);
+}
+
+.red > *{
+    background-color: rgb(226, 43, 80);
+}
